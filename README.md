@@ -1,6 +1,6 @@
 #2022graphics1
 ##week01
-##week02
+#week02
 # 一-1.
 
 1.到老師的網址下載(https://jsyeh.org/3dcg10/)上課用資料
